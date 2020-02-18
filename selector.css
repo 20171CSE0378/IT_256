@@ -1,0 +1,6 @@
+div:hover {
+background-color:gray;
+}
+a.highlight:hover {
+color: yellow;
+}

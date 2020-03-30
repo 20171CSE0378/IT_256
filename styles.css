@@ -1,0 +1,19 @@
+
+header{
+height: 10rem;
+
+background-color:  red;
+  margin-top:2rem;
+float: none;
+}
+
+nav{
+  height: 5rem;
+margin-top:0;margin-bottom: 0rem;
+
+  background-color: #8df2d4;
+}
+
+nav:hover{
+  background-color: #5eebc1;
+}
